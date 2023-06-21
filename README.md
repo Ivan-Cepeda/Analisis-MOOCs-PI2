@@ -4,7 +4,7 @@ Análisis de datos de competidores para una start-up que desea iniciar en el mun
 # Análisis de datos de competidores
 Este proyecto tiene como objetivo analizar los datos recolectados de posibles competidores para obtener información valiosa sobre el mercado y la demanda del producto vendido. Pora los cual se nos hizo entrega de 4 datasets con la data de 3 empresas altamente conocidas en el sector, como los son COURSERA, EDX, UDEMY.
 
-Puede acceder a los datasets através del siguiente [link:] (https://drive.google.com/drive/folders/1TS76ok6giW7D_l5vc-zu5-cBU_dH3P5H?usp=sharing)
+Puede acceder a los datasets através del siguiente [link](https://drive.google.com/drive/folders/1TS76ok6giW7D_l5vc-zu5-cBU_dH3P5H?usp=sharing)
 
 Para ello se realizó un análisis exploratorio de datos en un notebook, usando distintas herramientas de python. que puede detallar en el archivo llamado EDA en los documentos de este repositorio.
 
