@@ -10,7 +10,7 @@ Para ello se realizó un análisis exploratorio de datos en un notebook, usando 
 
 
 ## COURSERA
-![](https://github.com/Ivan-Cepeda/Analisis-MOOCs-PI2/blob/main/src/cors.jpeg)
+![](https://github.com/Ivan-Cepeda/Analisis-MOOCs-PI2/blob/main/src/R.png)
 
 En el caso de coursera, los datos incorporados en el dataset, nos permitió crear una relación entre la valoración y la cantidad de opiniones por curso, así como evaluar el crecimiento de interacciones por año, así mismo se observó la cantidad de reviews por institución que ofrecen sus cursos en esta plataforma. Se evaluó el KPI debido a la meta de optener un crecimiento de 100000 interacciones dentro de la plataforma por año. 
 
@@ -29,7 +29,7 @@ Para udemy se realizó un tratamiento especial en cuanto a los datos, se relaiza
 
 ![](https://github.com/Ivan-Cepeda/Analisis-MOOCs-PI2/blob/main/src/udem.jpeg)
 
-## Como conclusión se le recomienda a la Start-up, en el caso de continuar con la idea de sumergirse al mundo de los cursos masivos en linea, que el área de mayor demanda y crecimiento está en la tecnología, el idioma mas común es el inglés seguido del español, la mayor cantidad de consumidores están en la franja de los cursos de nivel básico, y considerando el lugar que tienen estas empresas en el mercado, es importante ofrecer una servicio de diferenciación, por ejemplo: incorporar al IA, para personalizar la experiencia.  
+ Como conclusión se le recomienda a la Start-up, en el caso de continuar con la idea de sumergirse al mundo de los cursos masivos en linea, que el área de mayor demanda y crecimiento está en la tecnología, el idioma mas común es el inglés seguido del español, la mayor cantidad de consumidores están en la franja de los cursos de nivel básico, y considerando el lugar que tienen estas empresas en el mercado, es importante ofrecer una servicio de diferenciación, por ejemplo: incorporar al IA, para personalizar la experiencia.  
 
 ### Proyecto realizado por:
 Iván Miguel Cepeda Gutierre.
